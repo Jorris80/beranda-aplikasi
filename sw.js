@@ -1,5 +1,5 @@
 /* Beranda Aplikasi — Service Worker */
-var CACHE = "beranda-aplikasi-v1";
+var CACHE = "beranda-aplikasi-v3";
 var ASSETS = [
   "./",
   "./index.html",
